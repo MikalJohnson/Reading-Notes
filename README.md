@@ -13,27 +13,26 @@ Q&A Section
 Q: Is there where my questions go?
 > Yes it is!
 
-```
 ## Code 301 - Intermediate Software Development
 ```
 Notes for Code 301
 
 * Place holder
   - Place holder
+```
 Q&A Section
 
 Q: Is there where my questions go?
 > Yes it is!
 
-```
 ## Code 401 - Advanced Software Development
 ```
 Notes for Code 401
 
 + Place holder
   - Place holder
+```
 Q&A Section
 
 Q: Is there where my questions go?
 > Yes it is!
-```
