@@ -11,7 +11,7 @@ Notes for Code 201
 Q&A Section
 
 Q: Is there where my questions go?
-> Yes it is!
+>Yes it is!
 ```
 ## Code 301 - Intermediate Software Development
 ```
