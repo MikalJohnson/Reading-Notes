@@ -7,6 +7,7 @@ Notes for Code 201
 
 - Place holder
   - Place holder
+```
 Q&A Section
 
 Q: Is there where my questions go?
