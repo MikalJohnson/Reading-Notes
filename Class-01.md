@@ -31,4 +31,20 @@
 
 - First step of every project is to define what you want to accomplish with it.
 
+- What needs to be done, and in what order, to reach my goals.
+
+## Semantics
+
+- I would use an *h1* tag over a *span* tag when im trying to let the browser know that "this" is the main focus of the website.
+
+- Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO).
+- Screen readers can use it as a signpost to help visually impaired users navigate a page.
+- Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes.
+- Suggests to the developer the type of data that will be populated.
+- Semantic naming mirrors proper custom element/component naming.
+
+## What is JavaScript
+
 - 
+
+- You can add JavaScript externally and internally by using the script tag.
